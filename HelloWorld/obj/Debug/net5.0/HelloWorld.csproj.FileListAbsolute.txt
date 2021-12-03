@@ -1,0 +1,15 @@
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\cyi\STUDY\C#\C#교과서\source\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
